@@ -5,10 +5,11 @@ Incoming Software Engineer @
 ## 🦁 About Me
 **Name:** Francis  
 **Location:** New York  
-Beyond coding, I also enjoy:
-* **Music:** 🎻 Playing the [viola](https://en.wikipedia.org/wiki/Viola)
-* **Sports:** 🎾 Playing basketball, tennis, and ping pong.
-* **Movies:** 🎬 A good film
+
+Beyond coding, I also enjoy:  
+**Music:** 🎻 Playing the [viola](https://en.wikipedia.org/wiki/Viola)  
+**Sports:** 🎾 Playing basketball, tennis, and ping pong.  
+**Movies:** 🎬 A good film  
 
 
 ## 🛠️ Current Builds
@@ -36,7 +37,7 @@ Beyond coding, I also enjoy:
 <details>
 <summary> more... </summary>
  
-#### ⌨️ ――― Programming Languages ――― 💾
+### ⌨️ ――― Programming Languages ――― 💾
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
@@ -46,7 +47,7 @@ Beyond coding, I also enjoy:
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
 </p>
 
-#### 🌐 ――― Frontend ――― 🖥️
+### 🌐 ――― Frontend ――― 🖥️
 <p align="left">
   <!-- Web -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -58,21 +59,18 @@ Beyond coding, I also enjoy:
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift">
 </p>
 
-#### 🗄️ ――― Backend ――― 🌐
+### 🗄️ ――― Backend ――― 🌐
 <p align="left">
   <!-- Backend -->
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+ 
   <!-- Databases -->
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  
-  <!-- Cloud -->
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
 </p>
 
-#### 🛠️ ――― Developer Tools ――― 🔧
+### 🛠️ ――― Developer Tools ――― 🔧
 <p align="left">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor">
