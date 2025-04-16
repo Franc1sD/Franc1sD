@@ -1,16 +1,31 @@
 ## Hi there 👋
 
-<!--
-**Franc1sD/Franc1sD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm [Your Name] 👋
 
-Here are some ideas to get you started:
+## About Me
+- 🔭 I'm currently working on [current project]
+- 🌱 I'm currently learning [technologies/subjects]
+- 👯 I'm looking to collaborate on [interests]
+- 💬 Ask me about [topics you're knowledgeable about]
+- 📫 How to reach me: [email/social links]
+- 😄 Pronouns: [your pronouns]
+- ⚡ Fun fact: [interesting fact about yourself]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Programming Languages: [languages]
+- Frameworks & Libraries: [frameworks]
+- Tools & Technologies: [tools]
+
+## Projects
+### [Project Name](link-to-repo)
+Brief description of the project
+
+### [Another Project](link-to-repo)
+Brief description of the project
+
+## GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+## Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](your-linkedin-url)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](your-twitter-url)
