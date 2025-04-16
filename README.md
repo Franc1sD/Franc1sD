@@ -1,7 +1,14 @@
-# Hi, I'm Francis! 👋
+# Welcome to Franc1sD's GitHub! 👋
+Computer Science and Economics Major  
+Incoming Software Engineer @  
 
-Welcome to my GitHub profile! I'm a student majoring in Computer Science and Economics at Columbia University.
-This is where I share my coding projects, experiments, and contributions as I learn and grow in the tech world.
+## 🦁 About Me
+**Name:** Francis  
+**Location:** New York  
+Beyond coding, I also enjoy:
+* **Music:** 🎻 Playing the [viola](https://en.wikipedia.org/wiki/Viola)
+* **Sports:** 🎾 Playing basketball, tennis, and ping pong.
+* **Movies:** 🎬 A good film
 
 
 ## 🛠️ Current Builds
@@ -14,8 +21,21 @@ This is where I share my coding projects, experiments, and contributions as I le
   * Building interactive frontends with HTML/JS backends
 
 
-## ⚙️ Tech Stack
+## ⚙️ Core Skills
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+ <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/OCaml-EC6813?style=for-the-badge&logo=ocaml&logoColor=white" alt="OCaml">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/STATA-1C3957?style=for-the-badge&logoColor=white" alt="STATA">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&color=00599C&logoColor=white" alt="C">
+</p>
 
+<details>
+<summary> more... </summary>
+ 
 #### ⌨️ ――― Programming Languages ――― 💾
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -63,5 +83,11 @@ This is where I share my coding projects, experiments, and contributions as I le
   <img src="https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Terminal">
 </p>
 
+</details>
+
 ## 🤝 Let's connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francis-deng-901140275/)
+
+<p align="center">
+  <span> © 2025 Franc1sD | Built with ☕ and 💻 | All rights reserved </span>
+</p>
