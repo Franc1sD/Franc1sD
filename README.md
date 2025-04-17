@@ -12,24 +12,11 @@ Beyond coding, I also enjoy:
 **Movies:** 🎬 A good film  
 
 
-## 🛠️ Current Builds
-
-* [**Auto-Answer Crawler**](https://github.com/Franc1sD/Crawler)
-  * Developing web crawlers for automated Q&A systems with Gemini
-* [**OCaml Language Design**](https://github.com/glassesq/quantica)
-  * Creating a custom programming language compiler
-* [**Flask Web Interfaces**](https://github.com/Franc1sD/Martini-Mentor)
-  * Building interactive frontends with HTML/CSS, and backends with JQuery
-
-## 🌟 Showcase Projects
-### ✨ **Aurora** 
-*An ephemeral messaging space where conversations flow like the northern lights*
-- **Tech Stack:** SwiftUI, Firebase, Figma
-- **Platform:** iOS System
-- **Key Features:** 
-  - Real-time typing visualization
-  - Auto-disappearing messages
-- **App Store:** [Download Aurora](https://apps.apple.com/us/app/aurora/id6740733827)
+## 🛠️ My Builds
+🌟 [**Aurora**](https://apps.apple.com/us/app/aurora/id6740733827): Ephemeral messaging app where conversations flow like the northern lights  
+🌟 [**Quantica Language**](https://github.com/glassesq/quantica): Custom programming language and compiler built with OCaml  
+🌟 [**AI Q&A Crawler**](https://github.com/Franc1sD/Crawler): Web crawlers that automatically generate answers using Gemini API  
+🌟 [**Martini Mentor**](https://github.com/Franc1sD/Martini-Mentor): Interactive cocktail guide with Flask backend and responsive frontend  
 
 
 ## ⚙️ Core Skills
