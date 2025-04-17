@@ -15,17 +15,27 @@ Beyond coding, I also enjoy:
 ## 🛠️ Current Builds
 
 * [**Auto-Answer Crawler**](https://github.com/Franc1sD/Crawler)
-  * Developing web crawlers for automated Q&A systems with fine-tuned Gemini
+  * Developing web crawlers for automated Q&A systems with Gemini
 * [**OCaml Language Design**](https://github.com/glassesq/quantica)
   * Creating a custom programming language compiler
 * [**Flask Web Interfaces**](https://github.com/Franc1sD/Martini-Mentor)
-  * Building interactive frontends with HTML/JS backends
+  * Building interactive frontends with HTML/CSS, and backends with JQuery
+
+## 🌟 Showcase Projects
+### ✨ **Aurora** 
+*An ephemeral messaging space where conversations flow like the northern lights*
+- **Tech Stack:** SwiftUI, Firebase, Figma
+- **Platform:** iOS System
+- **Key Features:** 
+  - Real-time typing visualization
+  - Auto-disappearing messages
+- **App Store:** [Download Aurora](https://apps.apple.com/us/app/aurora/id6740733827)
 
 
 ## ⚙️ Core Skills
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
- <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/OCaml-EC6813?style=for-the-badge&logo=ocaml&logoColor=white" alt="OCaml">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
