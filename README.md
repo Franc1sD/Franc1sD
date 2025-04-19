@@ -13,10 +13,10 @@ Beyond coding, I also enjoy:
 
 
 ## 🛠️ My Builds
-🌟 [**Aurora**](https://apps.apple.com/us/app/aurora/id6740733827): Ephemeral messaging app where conversations flow like the northern lights  
 🌟 [**Quantica Language**](https://github.com/glassesq/quantica): Custom programming language and compiler built with OCaml  
-🌟 [**AI Q&A Crawler**](https://github.com/Franc1sD/Crawler): Web crawlers that automatically generate answers using Gemini API  
 🌟 [**Martini Mentor**](https://github.com/Franc1sD/Martini-Mentor): Interactive cocktail guide with Flask backend and responsive frontend  
+🌟 [**Aurora**](https://apps.apple.com/us/app/aurora/id6740733827): Ephemeral messaging app where conversations flow like the northern lights  
+🌟 [**AI Q&A Crawler**](https://github.com/Franc1sD/Crawler): Web crawlers that automatically generate answers using Gemini API  
 
 
 ## ⚙️ Core Skills
