@@ -9,7 +9,7 @@ Incoming Software Engineer @
 Beyond coding, I also enjoy:  
 **Music:** 🎻 Playing the [viola](https://en.wikipedia.org/wiki/Viola)  
 **Sports:** 🎾 Playing basketball, tennis, and ping pong.  
-**Movies:** 🎬 A good film  
+**Movies:** 🎬 A [Good film](https://en.wikipedia.org/wiki/Interstellar_(film)) or a [Good TV show](https://en.wikipedia.org/wiki/You_(TV_series))  
 
 
 ## 🛠️ My Builds
