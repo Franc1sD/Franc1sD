@@ -1,6 +1,6 @@
 # Welcome to Franc1sD's GitHub! 👋
 Computer Science and Economics Major  
-Incoming Software Engineer @  
+Solutions Engineer Intern @ 3Forge
 
 ## 🦁 About Me
 **Name:** Francis  
