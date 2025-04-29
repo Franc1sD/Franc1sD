@@ -1,5 +1,7 @@
 # Welcome to Franc1sD's GitHub! 👋
-Computer Science and Economics Major  
+<img src="/clip1.gif" align="right" width="170px">
+
+Computer Science and Economics @ Columbia University  
 Solutions Engineer Intern @ 3Forge
 
 ## 🦁 About_Me.json
