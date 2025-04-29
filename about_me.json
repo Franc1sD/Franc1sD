@@ -1,0 +1,10 @@
+{
+  "Name": "Francis",
+  "Location": "New York",
+  "Title": "Software Engineer",
+  "Hobbies": {
+    "music": "Viola",
+    "sports": ["Basketball", "Tennis", "Ping pong"],
+    "watch": ["Interstellar", "You"]
+  }
+}
