@@ -1,5 +1,5 @@
 # Welcome to Franc1sD's GitHub! 👋
-<img src="/clip1.gif" align="right" width="170px">
+<img src="/clip1.gif" align="right" width="160px">
 
 Computer Science and Economics @ Columbia University  
 Solutions Engineer Intern @ 3Forge
@@ -23,6 +23,8 @@ Solutions Engineer Intern @ 3Forge
 ```
 
 ## 🛠️ My Builds
+<img src="/clip2.gif" align="right" width="100px">
+
 🌟 [**Quantica Language**](https://github.com/glassesq/quantica): Custom programming language and compiler built with OCaml  
 🌟 [**Martini Mentor**](https://github.com/Franc1sD/Martini-Mentor): Interactive cocktail guide with Flask backend and responsive frontend  
 🌟 [**Aurora**](https://apps.apple.com/us/app/aurora/id6740733827): Ephemeral messaging app where conversations flow like the northern lights  
