@@ -2,15 +2,19 @@
 Computer Science and Economics Major  
 Solutions Engineer Intern @ 3Forge
 
-## 🦁 About Me
-**Name:** Francis  
-**Location:** New York  
-
-Beyond coding, I also enjoy:  
-**Music:** 🎻 Playing the [viola](https://en.wikipedia.org/wiki/Viola)  
-**Sports:** 🎾 Playing basketball, tennis, and ping pong.  
-**Watch:** 🎬 A [good film](https://en.wikipedia.org/wiki/Interstellar_(film)) or a [good TV show](https://en.wikipedia.org/wiki/You_(TV_series))  
-
+## 🦁 About_Me.json
+```json
+{
+  "Name": "Francis",
+  "Location": "New York",
+  "Title": "Software Engineer",
+  "Hobbies": {
+    "music": "Viola",
+    "sports": ["Basketball", "Tennis", "Ping pong"],
+    "watch": ["Interstellar", "You"]
+  }
+}
+```
 
 ## 🛠️ My Builds
 🌟 [**Quantica Language**](https://github.com/glassesq/quantica): Custom programming language and compiler built with OCaml  
