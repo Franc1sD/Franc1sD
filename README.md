@@ -9,11 +9,15 @@ Solutions Engineer Intern @ 3Forge
 {
   "Name": "Francis",
   "Location": "New York",
+  "Education": "Columbia University",
   "Title": "Software Engineer",
   "Hobbies": {
     "music": "Viola",
     "sports": ["Basketball", "Tennis", "Ping pong"],
-    "watch": ["Interstellar", "You"]
+    "watch": {
+      "movie": "Interstellar",
+      "tv show": "You"
+    }
   }
 }
 ```
