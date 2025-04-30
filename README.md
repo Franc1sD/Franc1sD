@@ -7,18 +7,18 @@ Solutions Engineer Intern @ 3Forge
 ## 🦁 About_Me.json
 ```json
 {
-  "Name": "Francis",
-  "Location": "New York",
-  "Education": "Columbia University",
-  "Title": "Software Engineer",
-  "Hobbies": {
-    "music": "Viola",
-    "sports": ["Basketball", "Tennis", "Ping pong"],
-    "watch": {
-      "movie": "Interstellar",
-      "tv show": "You"
+    "Name": "Francis",
+    "Location": "New York",
+    "Education": "Columbia University",
+    "Title": "Software Engineer",
+    "Hobbies": {
+        "Music": "Viola",
+        "Sports": ["Basketball", "Tennis", "Ping pong"],
+        "Watch": {
+            "Movie": "Interstellar",
+            "TV Show": "You"
+        }
     }
-  }
 }
 ```
 
