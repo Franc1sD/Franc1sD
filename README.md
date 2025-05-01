@@ -15,7 +15,7 @@ Solutions Engineer Intern @ 3Forge
         "Music": "Viola",
         "Sports": ["Basketball", "Tennis", "Ping pong"],
         "Watch": {
-            "Movie": ["Interstellar", "Dune"]
+            "Movie": ["Interstellar", "Dune"],
             "TV Show": ["You", "When Life Gives You Tangerines"]
         }
     }
