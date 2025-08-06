@@ -30,7 +30,7 @@ Solutions Engineer Intern @ 3Forge
 
 
 ## ⚙️ Core Skills
-<p align="left">
+<p align="left" style="pointer-events: none;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
@@ -47,7 +47,7 @@ Solutions Engineer Intern @ 3Forge
 <summary> more... </summary>
  
 ### 👨‍💻 Programming Languages
-<p align="left">
+<p align="left" style="pointer-events: none;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
@@ -58,7 +58,7 @@ Solutions Engineer Intern @ 3Forge
 </p>
 
 ### 🌐 Frontend Development
-<p align="left">
+<p align="left" style="pointer-events: none;">
   <!-- Web -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
@@ -71,7 +71,7 @@ Solutions Engineer Intern @ 3Forge
 </p>
 
 ### 🗄️ Backend & Databases
-<p align="left">
+<p align="left" style="pointer-events: none;">
   <!-- Backend -->
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
@@ -82,7 +82,7 @@ Solutions Engineer Intern @ 3Forge
 </p>
 
 ### 🛠️ DevOps & Tools
-<p align="left">
+<p align="left" style="pointer-events: none;">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Terminal">
@@ -92,8 +92,8 @@ Solutions Engineer Intern @ 3Forge
 </p>
 
 ### 📝 Software & Editors
-<p align="left">
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+<p align="left" style="pointer-events: none;">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor">
   <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" alt="Vim">
 </p>
