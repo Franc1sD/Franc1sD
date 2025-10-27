@@ -2,7 +2,6 @@
 <img src="/clip1.gif" align="right" width="160px">
 
 Computer Science and Economics @ Columbia University  
-Solutions Engineer Intern @ 3Forge
 
 ## 🦁 About_Me.json
 ```json
@@ -23,10 +22,11 @@ Solutions Engineer Intern @ 3Forge
 ```
 
 ## 🛠️ Top Builds
+> 🌟 [**resrv**](https://github.com/AlvisOu/resrv): Equipment reservation and usage tracking platform built with Ruby on Rails.  
 > 🌟 [**Gmail Automation**](https://github.com/Franc1sD/gmail-automation): Real-time case management system that synchronizes Gmail messages with 3forge AMI dashboard.  
-> 🌟 [**Distributed AMI**](https://github.com/Franc1sD/distributed-ami): Setting up AMI (3forge product) to run as separated components (Web, Center, Relay) with persistent volumes.  
+> 🌟 [**Distributed AMI**](https://github.com/Franc1sD/distributed-ami): Setting up AMI to run as distributed components with persistent volumes.  
 > 🌟 [**Quantica Language**](https://github.com/glassesq/quantica): Custom programming language and compiler built with OCaml  
-> 🌟 [**Martini Mentor**](https://github.com/Franc1sD/Martini-Mentor): Interactive cocktail guide with Flask backend and responsive frontend  
+> 🌟 [**Martini Mentor**](https://github.com/Franc1sD/Martini-Mentor): Interactive cocktail guide with Flask backend
 
 
 ## ⚙️ Core Skills
@@ -35,6 +35,8 @@ Solutions Engineer Intern @ 3Forge
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
   <img src="https://img.shields.io/badge/OCaml-EC6813?style=for-the-badge&logo=ocaml&logoColor=white" alt="OCaml">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery">
@@ -52,6 +54,8 @@ Solutions Engineer Intern @ 3Forge
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
   <img src="https://img.shields.io/badge/OCaml-EC6813?style=for-the-badge&logo=ocaml&logoColor=white" alt="OCaml">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby">
   <img src="https://img.shields.io/badge/STATA-1C3957?style=for-the-badge&logoColor=white" alt="STATA">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&color=00599C&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
@@ -73,6 +77,7 @@ Solutions Engineer Intern @ 3Forge
 ### 🗄️ Backend & Databases
 <p align="left" style="pointer-events: none;">
   <!-- Backend -->
+  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Ruby on Rails">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
  
@@ -102,6 +107,7 @@ Solutions Engineer Intern @ 3Forge
 
 ## 🤝 Let's connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francis-deng-901140275/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Franc1sD)
 
 <p align="center">
   <span> © 2025 Franc1sD | Built with ☕ and 💻 | All rights reserved </span>
