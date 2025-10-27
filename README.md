@@ -1,5 +1,5 @@
 # Welcome to Franc1sD's GitHub! 👋
-<img src="/clip1.gif" align="right" width="130px">
+<img src="clip1.gif" align="right" width="130px">
 
 Computer Science and Economics @ Columbia University  
 
