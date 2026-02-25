@@ -22,6 +22,7 @@ Computer Science and Economics @ Columbia University
 ```
 
 ## 🛠️ Top Builds
+> 🌟 [**Avalon**](https://github.com/Franc1sD/avalon): Real-time, web-based version of the game *Avalon*.  
 > 🌟 [**resrv**](https://github.com/AlvisOu/resrv): Equipment reservation and usage tracking platform built with Ruby on Rails.  
 > 🌟 [**Gmail Automation**](https://github.com/Franc1sD/gmail-automation): Real-time case management system that synchronizes Gmail messages with 3forge AMI dashboard.  
 > 🌟 [**Distributed AMI**](https://github.com/Franc1sD/distributed-ami): Setting up AMI to run as distributed components with persistent volumes.  
