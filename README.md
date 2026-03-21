@@ -2,6 +2,7 @@
 <img src="clip1.gif" align="right" width="130px">
 
 Computer Science and Economics @ Columbia University  
+Incoming Software Engineer @ Superhuman
 
 ## 🦁 About_Me.json
 ```json
@@ -9,7 +10,6 @@ Computer Science and Economics @ Columbia University
     "Name": "Francis",
     "Location": "New York",
     "Education": "Columbia University",
-    "Title": "Software Engineer",
     "Hobbies": {
         "Music": "Viola",
         "Sports": ["Basketball", "Tennis", "Ping pong"],
@@ -26,7 +26,7 @@ Computer Science and Economics @ Columbia University
 > 🌟 [**resrv**](https://github.com/AlvisOu/resrv): Equipment reservation and usage tracking platform built with Ruby on Rails.  
 > 🌟 [**Gmail Automation**](https://github.com/Franc1sD/gmail-automation): Real-time case management system that synchronizes Gmail messages with 3forge AMI dashboard.  
 > 🌟 [**Distributed AMI**](https://github.com/Franc1sD/distributed-ami): Setting up AMI to run as distributed components with persistent volumes.  
-> 🌟 [**Quantica Language**](https://github.com/glassesq/quantica): Custom programming language and compiler built with OCaml  
+> 🌟 [**Quantica**](https://github.com/glassesq/quantica): Custom programming language and compiler built with OCaml  
 > 🌟 [**Martini Mentor**](https://github.com/Franc1sD/Martini-Mentor): Interactive cocktail guide with Flask backend
 
 
@@ -108,7 +108,7 @@ Computer Science and Economics @ Columbia University
 ## 🤝 Let's connect
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Franc1sD)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Franc1sD/)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge)](https://franc1sd.vercel.app)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://franc1sd.vercel.app)
 
 <p align="center">
   <span> © 2026 Franc1sD | Built with ☕ and 💻 | All rights reserved </span>
