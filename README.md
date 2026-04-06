@@ -12,16 +12,17 @@ Incoming Software Engineer @ Superhuman
     "Education": "Columbia University",
     "Hobbies": {
         "Music": "Viola",
-        "Sports": ["Basketball", "Tennis", "Ping pong"],
+        "Sports": ["Tennis", "Basketball", "Ping pong"],
         "Watch": {
             "Movie": ["Interstellar", "Dune"],
-            "TV Show": ["You", "When Life Gives You Tangerines"]
+            "TV Show": ["When Life Gives You Tangerines", "You"]
         }
     }
 }
 ```
 
 ## 🛠️ Top Builds
+> 🌟 [**Equ1nox**](https://equ1nox.vercel.app): Production-ready expense-tracking and debt-simplification tool hosted on web   
 > 🌟 [**Avalon**](https://github.com/Franc1sD/avalon): Real-time, web-based version of the game *Avalon*.  
 > 🌟 [**resrv**](https://github.com/AlvisOu/resrv): Equipment reservation and usage tracking platform built with Ruby on Rails.  
 > 🌟 [**Gmail Automation**](https://github.com/Franc1sD/gmail-automation): Real-time case management system that synchronizes Gmail messages with 3forge AMI dashboard.  
