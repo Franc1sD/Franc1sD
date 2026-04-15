@@ -21,14 +21,13 @@ Incoming Software Engineer @ Superhuman
 }
 ```
 
-## 🛠️ Top Builds
-> 🌟 [**Equ1nox**](https://equ1nox.vercel.app): Production-ready expense-tracking and debt-simplification tool hosted on web   
+## 🛠️ Recent Builds
+> 🌟 [**sp1it**](https://sp1it.com): Production-ready expense-tracking and debt-simplification tool hosted on web.   
+> 🌟 [**Shoki Gallery**](https://shoki.vercel.app): A curated marketplace for antique Japanese *kakejiku* (hanging scrolls).  
 > 🌟 [**Avalon**](https://github.com/Franc1sD/avalon): Real-time, web-based version of the game *Avalon*.  
 > 🌟 [**resrv**](https://github.com/AlvisOu/resrv): Equipment reservation and usage tracking platform built with Ruby on Rails.  
-> 🌟 [**Gmail Automation**](https://github.com/Franc1sD/gmail-automation): Real-time case management system that synchronizes Gmail messages with 3forge AMI dashboard.  
-> 🌟 [**Distributed AMI**](https://github.com/Franc1sD/distributed-ami): Setting up AMI to run as distributed components with persistent volumes.  
-> 🌟 [**Quantica**](https://github.com/glassesq/quantica): Custom programming language and compiler built with OCaml  
-> 🌟 [**Martini Mentor**](https://github.com/Franc1sD/Martini-Mentor): Interactive cocktail guide with Flask backend
+> 🌟 [**Quantica**](https://github.com/glassesq/quantica): Custom programming language and compiler built with OCaml.  
+> 🌟 [**Martini Mentor**](https://github.com/Franc1sD/Martini-Mentor): Interactive cocktail guide with Flask backend.
 
 
 ## ⚙️ Core Skills
